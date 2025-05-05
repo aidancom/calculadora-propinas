@@ -11,7 +11,7 @@ Programa el cual simula una calculadora de propinas, la cual va haciendo el calc
 ## Guía de instalación
 
 ```
-git clone https://github.com/tu-usuario/calculadora-propinas.git
+git clone https://github.com/aidancom/calculadora-propinas.git
 cd calculadora-propinas
 npm i
 npm run dev
